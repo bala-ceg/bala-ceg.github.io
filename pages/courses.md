@@ -5,31 +5,38 @@ permalink: /courses/
 weight: 2
 ---
 
-### Coursera  <br>
+<!-- ### Coursera  <br>
 <ul>
 <li> Machine Learning - Stanford by Andrew Ng                           </li>
 <li> Deep Learning Specialization by deeplearning.ai             </li>       
 <li>Tensorflow Data and Deployment Specialization by DeepLearning.ai  </li>
 </ul> <br>
+-->
 
-### Udacity  <br>
+### NPTEL  <br>
 <ul>
-<li> Intro to AWS Machine Learning </li>                                 
-    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing  </li> 
-    <li> Robotics Software Engineer Nanodegree - ongoing </li>
-    <li> Self Driving Car Engineer Nanodegree - ongoing </li> 
-    </ul><br>
+<li> Introduction to Internet of Things by IIT Kharagpur </li>                                 
+<li> Introduction to Machine Learning by IIT Kharagpur  </li>
+<li> Google Cloud Computing Foundations by IIT Kharagpur </li>                                 
+<li> Real Time Operating System by IIT Kharagpur </li>                                 
+<li> Computer Networks and Internet Protocol by IIT Kharagpur - ongoing </li>                                 
+<li> Cloud Computing by IIT Kharagpur- ongoing  </li> 
+</ul><br>
 
 ### Udemy <br>
 <ul>
-<li> Artificial Intelligence : Reinforcement Learning in Python - ongoing </li>
+<li> Ultimate AWS Certified Cloud Practitioner - 2021 </li>
+<li> Deep Learning Prerequisites: The Numpy Stack in Python (V2+) - ongoing </li>
+<li> Python for Computer Vision with OpenCV and Deep Learning - ongoing </li>
+<li> TensorFlow Developer Certificate in 2021: Zero to Mastery - ongoing </li>
+<li> Python for Finance: Investment Fundamentals & Data Analytics - ongoing </li>
 </ul>
 <br>
 
 ### Quantum Computing <br>
 <ul>
-<li> The Coding School: Certificate Course on Quantum Computing (IBM,MIT) </li>
-<li> QWorld Bronze Introduction to Quantum Computing Workshop </li>
+<li> QSilver Global Quantum Programming Workshop </li>
+<li> QBronze India Quantum Computing & Programming Workshop </li>
 </ul>
 <br>
 
@@ -40,8 +47,8 @@ weight: 2
 
 ### Core Learnings - B.Tech  <br>
 <ul>    
-<li> Introduction to Robotics </li>      
-<li> Image Processing </li>   
-<li> Artificial Neural networks and Genetic Algorithms  </li>   
-<li> Control Systems and Algorithms </li> 
-<li> Mechanics and Dynamics </li> </ul> <br>
+<li> Communication Networks </li> 
+<li> Digital Communication </li>      
+<li> Digital Image Processing </li>   
+<li> Embedded System Design </li>   
+<li> Advanced Micro Controllers </li> </ul> <br>
