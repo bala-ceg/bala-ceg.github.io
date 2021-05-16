@@ -2,7 +2,7 @@
 layout: page
 title: fQuotes
 permalink: /fquotes/
-weight: 2
+weight: 4
 ---
 
 ### Favourite Quotes  <br>
