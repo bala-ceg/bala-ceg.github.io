@@ -3,7 +3,7 @@ title               : Balaji Seetharaman
 description         : >- 
                       I turn tea :tea: into code,     
                       Want to discuss ?? Always up for Networking, Data Science, Deep Learning, Quantum Computing, 
-                      Teaching methodologies, Volunteering & Tamil Literature!!! 
+                      Teaching methodologies, Volunteer Teaching & Tamil Literature!!!
 #baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bala-ceg/bala-ceg.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : bala-ceg/portfolYOU
@@ -36,8 +36,8 @@ author:
 # facebook          : your_username
   github            : bala-ceg
 # gitlab            : your_username
-# instagram         : udaygirish
-# kaggle            : udaygirish
+# instagram         : 
+# kaggle            : 
   linkedin          : balaji-seetharaman-a90961100
   medium            : bala_ceg
 # soundcloud        : your_username
@@ -45,11 +45,11 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-# twitter          : UdayGirishM
+# twitter          : 
 # vimeo             : your_username
 # youtube           : your_channel_name
-# quora             : Uday-Girish-Maradana
-# resume            : Uday_Girish_CV.pdf
+# quora             :
+# resume            : 
   
 
 ### Posts ###
